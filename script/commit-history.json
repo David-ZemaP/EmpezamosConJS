@@ -57,12 +57,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "5599d35384541104a3ddd9799a8dc0f52ae9e85e",
+    "sha": "HEAD",
     "author": "David-ZemaP",
     "commit": {
       "date": "2025-08-27T02:40:47.000Z",
       "message": "feat: Red test for multiplicador cualquier numero",
-      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/5599d35384541104a3ddd9799a8dc0f52ae9e85e"
+      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/HEAD"
     },
     "stats": {
       "total": 4,
@@ -76,12 +76,12 @@
     "conclusion": "failure"
   },
   {
-    "sha": "HEAD",
+    "sha": "29b580124c697ea1d902e07bd14b3ec38bbcda4f",
     "author": "David-ZemaP",
     "commit": {
       "date": "2025-08-27T02:41:37.000Z",
       "message": "feat: Green test for multiplicador cualquier numero",
-      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/HEAD"
+      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/29b580124c697ea1d902e07bd14b3ec38bbcda4f"
     },
     "stats": {
       "total": 4,
@@ -91,6 +91,386 @@
     },
     "coverage": 100,
     "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "6d78197585143e0f56e377fcf876ce7691537bfa",
+    "author": "David-ZemaP",
+    "commit": {
+      "date": "2025-08-27T02:49:15.000Z",
+      "message": "feat: Red test for Convert a number into a string",
+      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/6d78197585143e0f56e377fcf876ce7691537bfa"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 8,
+      "deletions": 0,
+      "date": "2025-08-27"
+    },
+    "coverage": 100,
+    "test_count": 4,
+    "failed_tests": 1,
+    "conclusion": "failure"
+  },
+  {
+    "sha": "5472e8a40245e748e186e79722d94a459194f9aa",
+    "author": "David-ZemaP",
+    "commit": {
+      "date": "2025-08-27T02:53:04.000Z",
+      "message": "feat: Red test for convert any number into a string",
+      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/5472e8a40245e748e186e79722d94a459194f9aa"
+    },
+    "stats": {
+      "total": 6,
+      "additions": 5,
+      "deletions": 1,
+      "date": "2025-08-27"
+    },
+    "coverage": 100,
+    "test_count": 5,
+    "failed_tests": 1,
+    "conclusion": "failure"
+  },
+  {
+    "sha": "8f676537e1fbe9cb4b63a0575b364c94db4b5659",
+    "author": "David-ZemaP",
+    "commit": {
+      "date": "2025-08-27T02:54:24.000Z",
+      "message": "feat: Green test for convert any number into a string",
+      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/8f676537e1fbe9cb4b63a0575b364c94db4b5659"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 2,
+      "deletions": 2,
+      "date": "2025-08-27"
+    },
+    "coverage": 100,
+    "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "e2df1e491f58a0ba86d72d5241458014f1d04cec",
+    "author": "David-ZemaP",
+    "commit": {
+      "date": "2025-08-27T02:56:14.000Z",
+      "message": "feat: Red test for return 'Fizz' when the number is 3",
+      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/e2df1e491f58a0ba86d72d5241458014f1d04cec"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 4,
+      "deletions": 0,
+      "date": "2025-08-27"
+    },
+    "coverage": 100,
+    "test_count": 6,
+    "failed_tests": 1,
+    "conclusion": "failure"
+  },
+  {
+    "sha": "c7f0c9da12f8c959dcdf11417bebbc4c699babc0",
+    "author": "David-ZemaP",
+    "commit": {
+      "date": "2025-08-27T02:58:34.000Z",
+      "message": "feat: Green test for return 'Fizz' when the number is 3",
+      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/c7f0c9da12f8c959dcdf11417bebbc4c699babc0"
+    },
+    "stats": {
+      "total": 3,
+      "additions": 3,
+      "deletions": 0,
+      "date": "2025-08-27"
+    },
+    "coverage": 100,
+    "test_count": 6,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "2a02b7f4902023d3a0bf5b2028a0a35ad5998dda",
+    "author": "David-ZemaP",
+    "commit": {
+      "date": "2025-08-27T03:00:07.000Z",
+      "message": "feat: Red test for return 'Fizz' when the number is multiple of 3",
+      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/2a02b7f4902023d3a0bf5b2028a0a35ad5998dda"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 4,
+      "deletions": 0,
+      "date": "2025-08-27"
+    },
+    "coverage": 100,
+    "test_count": 7,
+    "failed_tests": 1,
+    "conclusion": "failure"
+  },
+  {
+    "sha": "9f872856059e730932305a0950989adf3442ac20",
+    "author": "David-ZemaP",
+    "commit": {
+      "date": "2025-08-27T03:02:30.000Z",
+      "message": "feat: Green test for return 'Fizz' when the number is multiple of 3",
+      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/9f872856059e730932305a0950989adf3442ac20"
+    },
+    "stats": {
+      "total": 6,
+      "additions": 5,
+      "deletions": 1,
+      "date": "2025-08-27"
+    },
+    "coverage": 100,
+    "test_count": 7,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "e7dd3ed0e62f27a1de9e7fb3f278037be761080c",
+    "author": "David-ZemaP",
+    "commit": {
+      "date": "2025-08-27T03:04:14.000Z",
+      "message": "feat: Red test for return 'Buzz' if the number is 5",
+      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/e7dd3ed0e62f27a1de9e7fb3f278037be761080c"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 4,
+      "deletions": 0,
+      "date": "2025-08-27"
+    },
+    "coverage": 100,
+    "test_count": 8,
+    "failed_tests": 1,
+    "conclusion": "failure"
+  },
+  {
+    "sha": "d43403138402c922c22c897915e661f027e9b7ab",
+    "author": "David-ZemaP",
+    "commit": {
+      "date": "2025-08-27T03:05:25.000Z",
+      "message": "feat: Green test for return 'Buzz' if the number is 5",
+      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/d43403138402c922c22c897915e661f027e9b7ab"
+    },
+    "stats": {
+      "total": 3,
+      "additions": 3,
+      "deletions": 0,
+      "date": "2025-08-27"
+    },
+    "coverage": 100,
+    "test_count": 8,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "cd30c827a89f91b9ab8608fa312c71e340ad5b0c",
+    "author": "David-ZemaP",
+    "commit": {
+      "date": "2025-08-27T03:06:59.000Z",
+      "message": "feat: Red test for return 'Buzz' when the number is multiple of 5",
+      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/cd30c827a89f91b9ab8608fa312c71e340ad5b0c"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 4,
+      "deletions": 0,
+      "date": "2025-08-27"
+    },
+    "coverage": 100,
+    "test_count": 9,
+    "failed_tests": 1,
+    "conclusion": "failure"
+  },
+  {
+    "sha": "88727e59d9be381c910b9075ef9461f77e32132b",
+    "author": "David-ZemaP",
+    "commit": {
+      "date": "2025-08-27T03:08:19.000Z",
+      "message": "feat: Green test for return 'Buzz' when the number is multiple of 5",
+      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/88727e59d9be381c910b9075ef9461f77e32132b"
+    },
+    "stats": {
+      "total": 6,
+      "additions": 5,
+      "deletions": 1,
+      "date": "2025-08-27"
+    },
+    "coverage": 100,
+    "test_count": 9,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "e5447a1b12c5f8ab6825052d17e242ae971fc0bb",
+    "author": "David-ZemaP",
+    "commit": {
+      "date": "2025-08-27T03:09:44.000Z",
+      "message": "feat: Red test for return 'FizzBuzz' when the number is multiple of 3 and 5",
+      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/e5447a1b12c5f8ab6825052d17e242ae971fc0bb"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 4,
+      "deletions": 0,
+      "date": "2025-08-27"
+    },
+    "coverage": 100,
+    "test_count": 10,
+    "failed_tests": 1,
+    "conclusion": "failure"
+  },
+  {
+    "sha": "7491dff278118d883364e271b9f6a30dd44812c3",
+    "author": "David-ZemaP",
+    "commit": {
+      "date": "2025-08-27T03:12:21.000Z",
+      "message": "feat: Green test for return 'FizzBuzz' when the number is multiple of 3 and 5",
+      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/7491dff278118d883364e271b9f6a30dd44812c3"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 4,
+      "deletions": 0,
+      "date": "2025-08-27"
+    },
+    "coverage": 100,
+    "test_count": 10,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "5c760a663134b6e2348c83f7eddffd1185347293",
+    "author": "David-ZemaP",
+    "commit": {
+      "date": "2025-08-27T03:20:48.000Z",
+      "message": "feat: Red test for return a string with 10 'n'",
+      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/5c760a663134b6e2348c83f7eddffd1185347293"
+    },
+    "stats": {
+      "total": 15,
+      "additions": 12,
+      "deletions": 3,
+      "date": "2025-08-27"
+    },
+    "coverage": 100,
+    "test_count": 11,
+    "failed_tests": 1,
+    "conclusion": "failure"
+  },
+  {
+    "sha": "b43cdeb84ff380bf3cd32342cb4ae9b1f6c41623",
+    "author": "David-ZemaP",
+    "commit": {
+      "date": "2025-08-27T03:21:53.000Z",
+      "message": "feat: Green test for return 10 'n'",
+      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/b43cdeb84ff380bf3cd32342cb4ae9b1f6c41623"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 3,
+      "deletions": 1,
+      "date": "2025-08-27"
+    },
+    "coverage": 100,
+    "test_count": 11,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "88ff10335bde453450325d332a485c50bb85e2d6",
+    "author": "David-ZemaP",
+    "commit": {
+      "date": "2025-08-27T03:24:16.000Z",
+      "message": "feat: Red test for return a string of n, depends of the input number",
+      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/88ff10335bde453450325d332a485c50bb85e2d6"
+    },
+    "stats": {
+      "total": 6,
+      "additions": 5,
+      "deletions": 1,
+      "date": "2025-08-27"
+    },
+    "coverage": 100,
+    "test_count": 12,
+    "failed_tests": 1,
+    "conclusion": "failure"
+  },
+  {
+    "sha": "4010a5447a4b01005cb20a347ccc3b8ef961f898",
+    "author": "David-ZemaP",
+    "commit": {
+      "date": "2025-08-27T03:28:10.000Z",
+      "message": "feat: Green test for return a string of n, depends of the input number",
+      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/4010a5447a4b01005cb20a347ccc3b8ef961f898"
+    },
+    "stats": {
+      "total": 11,
+      "additions": 9,
+      "deletions": 2,
+      "date": "2025-08-27"
+    },
+    "coverage": 100,
+    "test_count": 12,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "761167258470210ca1585008819d01a67b361cab",
+    "author": "David-ZemaP",
+    "commit": {
+      "date": "2025-08-27T03:30:43.000Z",
+      "message": "feat: Red test for return a string of numbers",
+      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/761167258470210ca1585008819d01a67b361cab"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 4,
+      "deletions": 0,
+      "date": "2025-08-27"
+    },
+    "coverage": 100,
+    "test_count": 13,
+    "failed_tests": 1,
+    "conclusion": "failure"
+  },
+  {
+    "sha": "e801d6d5574d6d0c137f5cfae55178d7e62e80e4",
+    "author": "David-ZemaP",
+    "commit": {
+      "date": "2025-08-27T03:33:52.000Z",
+      "message": "feat: Red test for return FizzBuzz logic string",
+      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/e801d6d5574d6d0c137f5cfae55178d7e62e80e4"
+    },
+    "stats": {
+      "total": 14,
+      "additions": 5,
+      "deletions": 9,
+      "date": "2025-08-27"
+    },
+    "coverage": 100,
+    "test_count": 12,
+    "failed_tests": 1,
+    "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "David-ZemaP",
+    "commit": {
+      "date": "2025-08-27T03:36:09.000Z",
+      "message": "feat: Green test for return FizzBuzz logic string",
+      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/HEAD"
+    },
+    "stats": {
+      "total": 6,
+      "additions": 1,
+      "deletions": 5,
+      "date": "2025-08-27"
+    },
+    "coverage": 100,
+    "test_count": 11,
     "failed_tests": 0,
     "conclusion": "success"
   }
