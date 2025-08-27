@@ -57,12 +57,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "5599d35384541104a3ddd9799a8dc0f52ae9e85e",
+    "sha": "HEAD",
     "author": "David-ZemaP",
     "commit": {
       "date": "2025-08-27T02:40:47.000Z",
       "message": "feat: Red test for multiplicador cualquier numero",
-      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/5599d35384541104a3ddd9799a8dc0f52ae9e85e"
+      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/HEAD"
     },
     "stats": {
       "total": 4,
